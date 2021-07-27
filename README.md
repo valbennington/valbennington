@@ -1,4 +1,4 @@
-### I’m currently working on reconstructing historical oceanic pCO2 and resulting air-sea CO2 fluxes using sparse in situ measurements, satellite observations, and machine learning.
+### I’m currently working to reconstruct historical oceanic pCO2 and resulting air-sea CO2 fluxes using sparse in situ measurements, satellite observations, and machine learning.
 - 👯 I’m looking to collaborate to reduce uncertainties in estimated global air-sea CO2 fluxes.
 - 📫 How to reach me: vbennington@ldeo.columbia.edu
 - 😄 Pronouns: she/her
